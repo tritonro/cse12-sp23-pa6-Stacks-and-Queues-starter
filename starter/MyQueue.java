@@ -9,7 +9,7 @@ public class MyQueue<E> implements QueueInterface<E> {
      * Constructor to create new MyQueue that holds a MyDeque.
      *
      * @param initialCapacity The max amount of elements this data structure
-     *                        can hold.
+     * can hold.
      */
     public MyQueue(int initialCapacity) {
     }

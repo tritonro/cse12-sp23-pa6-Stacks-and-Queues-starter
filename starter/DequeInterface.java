@@ -1,20 +1,20 @@
 /**
  * A DequeInterface is a sequential structure with restricted access.
- * <p>
+ * 
  * Access is available only at the ends of the structure:
  * addFirst(E), E removeFirst(), and E peekFirst()
  * operate on the first element of the list;
  * addLast(E), E removeLast(), and E peekLast()
  * operate on the last element of the list.
- * <p>
+ * 
  * (A sequential structure which, like DequeInterface, permits access
  * and modification only at the ends is sometimes called a "deque",
  * pronounced "deck", which is short for "double-ended queue.")
- * <p>
+ * 
  * An implementation of DequeInterface must allow duplicate elements,
  * but must not permit null elements, since some methods
  * use null as a signaling return value.
- * <p>
+ * 
  * In addition to the methods required in the definition of this interface,
  * a class implementing this interface should provide a public constructor
  * with a single argument of type int, which specifies the initial

@@ -1,6 +1,6 @@
 /**
  * An interface that specifies the familiar queue abstraction.
- * <p>
+ * 
  * In addition to the methods required in the definition of this interface,
  * a class implementing this interface should provide a public constructor
  * with a single argument of type int, which specifies the initial

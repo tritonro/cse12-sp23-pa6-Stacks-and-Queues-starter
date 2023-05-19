@@ -9,7 +9,7 @@ public class MyStack<E> implements StackInterface<E> {
      * Constructor to create new MyStack that holds a MyDeque.
      *
      * @param initialCapacity The max amount of elements this data structure
-     *                        can hold.
+     * can hold.
      */
     public MyStack(int initialCapacity) {
     }
